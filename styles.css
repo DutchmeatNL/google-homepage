@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+li {
+  display: inline-block;
+}
+
+.container {
+  width: 50%;
+  margin: 200px auto;
+}
+
+.logo {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.logo img {
+  display: block;
+  width: 33%;
+  margin: 0 auto;
+}
+
+.logo p {
+  position: absolute;
+  top: 300px;
+  right: 795px;
+  color: #4285f4;
+  font-family: 'Roboto', sans-serif;
+}
+
+.search {
+  margin: 25px auto;
+}
+
+.search input {
+  width: 50%;
+  height: 40px;
+  margin: 0 auto;
+  display: block;
+}
+
+
+.buttons li {
+  margin: 0 auto;
+  padding: 10px;
+  width: 110px;
+  height: 25px;
+  background-color: #ccc;
+  display: inline-block;
+}
