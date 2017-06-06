@@ -23,6 +23,12 @@ body {
   padding: 10px;
 }
 
+#header img {
+  height: 25px;
+  width: 25px;
+  opacity: .75;
+}
+
 #log-in {
   color: #fff;
   background: -webkit-linear-gradient(top,#4387fd,#4683ea);
